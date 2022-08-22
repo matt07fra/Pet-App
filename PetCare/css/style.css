@@ -1,9 +1,572 @@
-{
-    "version": 3,
-    "mappings": "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",
-    "sources": [
-        "style.scss"
-    ],
-    "names": [],
-    "file": "style.css"
+body {
+  font-family: "Poppins", sans-serif;
+  color: #0c0c0c;
+  background-color: #ffffff;
 }
+
+.layout_padding {
+  padding: 75px 0;
+}
+
+.layout_padding2 {
+  padding: 45px 0;
+}
+
+.layout_padding2-top {
+  padding-top: 45px;
+}
+
+.layout_padding2-bottom {
+  padding-bottom: 45px;
+}
+
+.layout_padding-top {
+  padding-top: 75px;
+}
+
+.layout_padding-bottom {
+  padding-bottom: 75px;
+}
+
+.custom_heading {
+  color: #030404;
+}
+
+.custom_heading span {
+  color: #21d7ff;
+}
+
+/*header section*/
+.hero_area {
+  height: 98vh;
+  position: relative;
+}
+
+.hero_area::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 15px;
+  background-color: #023b48;
+}
+
+.sub_page .hero_area {
+  height: auto;
+}
+
+.hero_area.sub_pages {
+  height: auto;
+}
+
+.header_section {
+  background-color: #f6f8f7;
+  padding-top: 15px;
+}
+
+.header_section .container-fluid {
+  padding-right: 25px;
+  padding-left: 25px;
+}
+
+.header_section .nav_container {
+  margin: 0 auto;
+}
+
+.header_section .quote_btn-container a {
+  color: #434242;
+  text-transform: uppercase;
+}
+
+.custom_nav-container.navbar-expand-lg .navbar-nav .nav-link {
+  padding: 10px 30px;
+  color: #434242;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+a,
+a:hover,
+a:focus {
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: initial;
+}
+
+.btn,
+.btn:focus {
+  outline: none !important;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+.navbar-brand,
+.navbar-brand:hover {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 24px;
+  color: #fafcfd;
+}
+
+.custom_nav-container .nav_search-btn {
+  background-image: url(../images/search-icon.png);
+  background-size: 22px;
+  background-repeat: no-repeat;
+  background-position-y: 7px;
+  width: 35px;
+  height: 35px;
+  padding: 0;
+  border: none;
+}
+
+.navbar-brand {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.navbar-brand img {
+  width: 30px;
+  margin-right: 5px;
+}
+
+.navbar-brand span {
+  font-size: 20px;
+  font-weight: 700;
+  color: #191919;
+  margin-top: 5px;
+}
+
+.custom_nav-container {
+  z-index: 99999;
+  padding: 5px 0;
+}
+
+.custom_nav-container .navbar-toggler {
+  outline: none;
+}
+
+.custom_nav-container .navbar-toggler .navbar-toggler-icon {
+  background-image: url(../images/menu.png);
+  background-size: 55px;
+}
+
+/*end header section*/
+/* slider section */
+.slider_section {
+  background-image: url(../images/hero.jpg);
+  padding: 6% 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.slider_section .row {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.slider_detail-box h1 {
+  color: #ffffff;
+  font-size: 52px;
+}
+
+.slider_detail-box h1 span {
+  display: inline-block;
+  color: #434242;
+  font-weight: bold;
+}
+
+.slider_detail-box p {
+  color: #f6f8f7;
+  margin-top: 45px;
+  margin-bottom: 40px;
+}
+
+.slider_detail-box .btn-box .btn-1 {
+  display: inline-block;
+  padding: 10px 45px;
+  background-color: #023b48;
+  border: 1px solid #023b48;
+  color: #ffffff;
+  margin-right: 10px;
+}
+
+.slider_detail-box .btn-box .btn-1:hover {
+  background-color: transparent;
+  color: #023b48;
+}
+
+.slider_detail-box .btn-box .btn-2 {
+  display: inline-block;
+  padding: 10px 45px;
+  background-color: #ffffff;
+  border: 1px solid #ffffff;
+  color: #023b48;
+}
+
+.slider_detail-box .btn-box .btn-2:hover {
+  background-color: transparent;
+  color: #ffffff;
+}
+
+.slider_img-box {
+  margin-right: 5%;
+}
+
+.slider_img-box img {
+  width: 100%;
+}
+
+.carousel-indicators {
+  bottom: -15%;
+}
+
+.carousel-indicators li {
+  width: 20px;
+  height: 20px;
+  border-radius: 100%;
+  opacity: 1;
+}
+
+.carousel-indicators .active {
+  background-color: #010106;
+}
+
+.about_section {
+  background-image: url(../images/about-bg.png);
+  background-size: cover;
+}
+
+.about_section .row {
+  -webkit-box-align: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline;
+}
+
+.about_section .img-box img {
+  width: 100%;
+}
+
+.about_section .detail-box p {
+  margin: 25px 0;
+}
+
+.about_section .detail-box a {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #023b48;
+  border: 1px solid #023b48;
+  color: #ffffff;
+}
+
+.about_section .detail-box a:hover {
+  background-color: transparent;
+  color: #023b48;
+}
+
+.service_section .row .col-md-4 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+}
+
+.service_section .img_box {
+  width: 110px;
+  height: 110px;
+  border-radius: 100%;
+  background-color: #18d3ff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.service_section .img_box img {
+  width: 45px;
+}
+
+.service_section .detail_box {
+  margin-top: 25px;
+}
+
+.service_section .detail_box h6 {
+  font-weight: bold;
+}
+
+.service_section a {
+  display: inline-block;
+  padding: 12px 25px;
+  background-color: #023b48;
+  border: 1px solid #023b48;
+  color: #ffffff;
+}
+
+.service_section a:hover {
+  background-color: transparent;
+  color: #023b48;
+}
+
+.gallery-section {
+  background-color: #0dc3ff;
+}
+
+.gallery-section .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch;
+}
+
+.gallery-section .container h2 {
+  color: #ffffff;
+}
+
+.gallery-section .img_box {
+  margin: 15px 0;
+}
+
+.gallery-section .img_box img {
+  width: 100%;
+  height: 100%;
+}
+
+.gallery-section .img_box.box-1 {
+  width: 28%;
+}
+
+.gallery-section .img_box.box-2 {
+  width: 70%;
+}
+
+.gallery-section .img_box.box-3 {
+  width: 32%;
+}
+
+.gallery-section .img_box.box-4 {
+  width: 32%;
+}
+
+.gallery-section .img_box.box-5 {
+  width: 32%;
+}
+
+.buy_section {
+  text-align: center;
+}
+
+.buy_section p {
+  margin: 25px 0;
+}
+
+.buy_section a {
+  display: inline-block;
+  padding: 12px 65px;
+  background-color: #023b48;
+  border: 1px solid #023b48;
+  color: #ffffff;
+}
+
+.buy_section a:hover {
+  background-color: transparent;
+  color: #023b48;
+}
+
+.client_section .pl-100 {
+  padding-left: 100px;
+}
+
+.client_section .client_container {
+  width: 90%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 auto;
+  border: 1px solid #606060;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 30px 0;
+}
+
+.client_section .client_container .img_box {
+  width: 200px;
+  margin-left: -100px;
+}
+
+.client_section .client_container .img_box img {
+  min-width: 100%;
+}
+
+.client_section .client_container .detail_box {
+  padding: 0 35px;
+}
+
+.client_section .carousel-indicators li {
+  background-color: #0dc3ff;
+}
+
+.client_section .carousel-indicators .active {
+  background-color: #8c8a8a;
+}
+
+.map_section {
+  position: relative;
+}
+
+.map_section #map {
+  position: absolute;
+}
+
+.map_section .form_container {
+  position: relative;
+  width: 50%;
+  z-index: 9;
+}
+
+.map_section .form_container form {
+  background-color: rgba(255, 255, 255, 0.98);
+  padding: 45px;
+  margin: 75px 0;
+}
+
+.map_section .form_container input {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  border-bottom: 1px solid #111111;
+  padding-top: 35px;
+  width: 100%;
+}
+
+.map_section .form_container input.message-box {
+  padding-top: 55px;
+}
+
+.map_section .form_container button {
+  display: inline-block;
+  padding: 12px 20px;
+  background-color: #023b48;
+  border: 1px solid #023b48;
+  color: #ffffff;
+  border-radius: 30px;
+  width: 100%;
+  margin-top: 35px;
+}
+
+.map_section .form_container button:hover {
+  background-color: transparent;
+  color: #023b48;
+}
+
+.info_section {
+  background-color: #0dc3ff;
+}
+
+.info_items {
+  width: 70%;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.info_items .item {
+  width: 200px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+}
+
+.info_items .item .img-box {
+  width: 80px;
+  height: 80px;
+  border-radius: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.info_items .item .detail-box {
+  margin-top: 5px;
+  color: #fff;
+}
+
+.info_items {
+  position: relative;
+}
+
+.info_items a {
+  position: relative;
+}
+
+.info_items .item .img-box.box-1 {
+  background-image: url(../images/location-white.png);
+}
+
+.info_items .item .img-box.box-2 {
+  background-image: url(../images/telephone-white.png);
+}
+
+.info_items .item .img-box.box-3 {
+  background-image: url(../images/envelope-white.png);
+}
+
+/* footer section*/
+.footer_section {
+  background-color: #fbfdfd;
+  padding: 20px;
+  font-weight: 500;
+}
+
+.footer_section p {
+  color: #292929;
+  margin: 0;
+  text-align: center;
+}
+
+.footer_section a {
+  color: #292929;
+}
+
+/* end footer section*/
+/*# sourceMappingURL=style.css.map */
