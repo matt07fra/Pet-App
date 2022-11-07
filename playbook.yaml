@@ -1,6 +1,13 @@
-- name: 'checking conncetion'
-  hosts: web
-  vars:
-    ansible_python_interpreter: /usr/bin/python3
+---
+- hosts: web
+  remote_user: ubuntu
+  become: yes
   tasks:
-    - ping:
+    - name: ensure nginx is at the latest version
+      apt:
+        name: nginx
+        state: latest
+    - name: start nginx
+      service:
+        name: nginx
+        state: started
